@@ -1,3 +1,12 @@
+---
+name: feat-request-template
+about: Describe this issue template's purpose here.
+title: "[FEAT/REQUEST]"
+labels: ''
+assignees: ''
+
+---
+
 ## Description
 
 Please provide a brief description of the feature request.

@@ -1,3 +1,12 @@
+---
+name: bug-report-template
+about: Describe this issue template's purpose here.
+title: "[BUG]"
+labels: ''
+assignees: ''
+
+---
+
 ## Description
 
 Please provide a brief description of the issue.

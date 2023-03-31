@@ -1,3 +1,12 @@
+---
+name: feat-enhancement-template
+about: Describe this issue template's purpose here.
+title: "[FEAT/ENHANCEMENT]"
+labels: ''
+assignees: ''
+
+---
+
 ## Description
 
 Please provide a brief description of the enhancement.
